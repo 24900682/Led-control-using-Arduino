@@ -1,6 +1,6 @@
 # NAME: ASWIN.L </br>
 # REG NO: 24900682
-# exp 1- Led control using Arduino
+# EXP - 1 LED CONTROL USING ARDUINO
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -74,4 +74,4 @@ Weighing Machines </br>
 <img src="https://github.com/user-attachments/assets/470cb1da-f8e6-4271-9e9f-4715a07e4141" width="400" height="400" />
 
 ## RESULT
-The project successfully achieved its objective of creating a simple yet effective LED control system using an arduino and push button.
+The project designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
